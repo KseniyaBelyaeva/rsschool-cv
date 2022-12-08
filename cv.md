@@ -17,3 +17,12 @@ I'm a sales manager. I have good soft skills: teamwork, sociability, empathy. I'
 # Education
 
 Voronezh State University, Faculty of Philosophy (incomplete higher education)
+
+# Languages
+
+Russian: Native
+English: Elementary
+
+# Project
+
+CV
