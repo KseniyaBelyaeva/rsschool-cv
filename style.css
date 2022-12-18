@@ -18,7 +18,7 @@ body {
   .nav-item {
     list-style: none;
      padding: 0 20px;
-    line-height: 180px;
+    line-height: 100px;
      color: #ffffff;
   }
   .nav-link {
