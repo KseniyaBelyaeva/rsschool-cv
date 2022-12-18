@@ -28,3 +28,16 @@ body {
   .img {
     margin: 20px
   }
+  footer { width: 100%;
+    background-color:#FF1493;
+    height: 100px;
+    margin: 20px
+  }
+  .my-gh {
+    color:#ffffff;
+    font-size: 20px;
+    margin: 20px 20px;
+  }
+  .logo {
+    margin: 10px 20px;
+  }
