@@ -39,5 +39,9 @@ body {
     margin: 20px 20px;
   }
   .logo {
-    margin: 10px 20px;
+    margin: 20px 20px;
+  }
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
   }
