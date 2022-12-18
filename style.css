@@ -44,3 +44,9 @@ body {
     max-width: 1440px;
     margin: 0 auto;
   }
+  .cv-link {
+    color:#000000
+  }
+  .headers {
+    font-variant: small-caps;
+  }
