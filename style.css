@@ -7,14 +7,13 @@ body {
     width: 100%;
     background-color:#FF1493;
     height: 200px;
-    margin: 20px
   }
   .nav {
     display: flex;
     justify-content: flex-start;
     align-items: center;
     list-style: none;
-    font-size: 30px;
+    font-size: 25px;
   }
   .nav-item {
     list-style: none;
@@ -30,7 +29,7 @@ body {
   }
   footer { width: 100%;
     background-color:#FF1493;
-    height: 100px;
+    height: 150px;
     margin: 20px
   }
   .my-gh {
