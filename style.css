@@ -56,12 +56,6 @@ body {
     display: flex;
     flex-wrap: wrap;
   }
-  
   .section {
     width: 50%;
-  }
-  @media (max-width: 768px) {
-    .section {
-      width: 100%;
-    }
   }
