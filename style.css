@@ -52,10 +52,3 @@ body {
   .headers {
     font-variant: small-caps;
   }
-  .main-container {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  .section {
-    width: 50%;
-  }
